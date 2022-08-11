@@ -42,7 +42,7 @@ Want to read my thoughts on the above then check out my [blog](https://mattphill
     </tr>
     <tr>
       <th><a href="https://github.com/facebook/jest/tree/main/packages/jest-each">jest-each</a></th>
-      <td>A parameterised testing for Jest.</td>
+      <td>Data driven testing for Jest.</td>
       <td>Author</td>
       <td>
         <a href="http://npm-stat.com/charts.html?package=jest-each&from=2017-03-21">
