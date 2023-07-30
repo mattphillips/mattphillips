@@ -1,18 +1,18 @@
-# Hi 👋, I'm Matt Phillips
+# Hey there 👋, I'm Matt Phillips.
 
-[![Follow](https://img.shields.io/twitter/follow/mattphillipsio?style=social)](https://twitter.com/intent/follow?screen_name=mattphillipsio&tw_p=followbutton)
-•
-[Blog](https://mattphillips.io)
-•
-[Twitter](https://twitter.com/mattphillipsio)
+[![Twitter](https://img.shields.io/badge/Follow-%23efefef?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=mattphillipsio)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%23efefef?style=flat-square&logo=githubsponsors)](https://github.com/sponsors/mattphillips)
+[![Blog](https://img.shields.io/badge/Read_blog-%23efefef?style=flat-square)](https://mattphillips.io)
 
 ---
 
-I'm a software engineer who is passionate about open-source software and loves teaching and helping on all things code / startup / product.
+I'm a software engineer who is passionate about open-source software, functional programming, and testing. I'm a perpetual learner who loves sharing my knowledge on all things code, career development and building products.
 
-I currently maintain multiple open-source packages that I have authored with over 60 million monthly downloads and help maintain [Jest](https://github.com/facebook/jest).
+If I'm not tinkering on my own products, I'm working on open-source. I've published multiple successful packages, which are downloaded millions of times each month, and most notably helped maintain [Jest](https://jestjs.io) and the [Jest Community](https://github.com/jest-community).
 
-[Twitter](https://twitter.com/intent/follow?screen_name=mattphillipsio&tw_p=followbutton) is the home of my content, so follow along there for:
+I also share my experiences over on my [blog](https://mattphillips.io). You can expect to learn more about `Typescript`, `Node`, `React`, `Testing`, and `Functional Programming` – with some content on career development and founding products thrown in too.
+
+[Twitter](https://twitter.com/intent/follow?screen_name=mattphillipsio) is the best place to keep up to date with what I'm working on, so follow along there for:
 
  - 👨‍💻 Web dev, functional programming & testing in Typescript
  - 🤩 Getting into / maintaining open source software
@@ -20,9 +20,9 @@ I currently maintain multiple open-source packages that I have authored with ove
  - 📢 Building in public
  - 🧑‍🚀 Career advice
 
-I especially am passionate about writing maintainable, scalable and testable code with Typescript, Jest and Functional Programming. 
+Or wanna chat? My DMs are always open 😊.
 
-Want to read my thoughts on the above then check out my [blog](https://mattphillips.io) or wanna chat? My DMs are always open 😊
+If you want to help support my work then please consider sponsoring me on [GitHub](https://github.com/sponsors/mattphillips).
 
 ## What I work on
 
